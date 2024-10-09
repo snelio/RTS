@@ -1,0 +1,12 @@
+<b>================================================================================
+                  R O A D   T R A F F I C   S I M U L A T O R                   
+            <scf_cya><i>!!!</i></sc>   <scb_whi><scf_bla>M E N U   [9]  -  C O N F I G U R A T I O N</sc>   <scf_cya><i>!!!</i></sc>
+================================================================================</b>
+Choose an option, and press ENTER. Press [Q] and then press ENTER to quit.
+--------------------------------------------------------------------------------
+[0] | Go to previous menu.
+--------------------------
+      Choose report type:
+[S] | SET UP DATABASE (initialize and connection test - JDBC connector required)
+[X] | RESET DATABASE TO FACTORY SETTINGS (drop all tables in a SQLite database!)
+================================================================================

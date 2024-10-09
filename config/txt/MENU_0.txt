@@ -1,0 +1,12 @@
+<b>================================================================================
+                  R O A D   T R A F F I C   S I M U L A T O R                   
+
+================================================================================</b>
+Choose an option, and press ENTER. Press [Q] and then press ENTER to quit.
+--------------------------------------------------------------------------------
+[0] :  ABOUT - About the application and basic instructions how to use it.
+[1] :  START - Start new or continue current simulation.
+[2] :   SAVE - Save simulation result to the database. [9] to configure db conn.
+[3] : REPORT - Generate reports and analyze saved results of simulations.
+[9] : CONFIG - Configuration. Set SQLite database connection and other options.
+================================================================================

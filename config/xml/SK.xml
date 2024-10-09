@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SK><!--country code as defined in countries.xml-->
+    <digits>5</digits><!--number of digits in a plate no. (plate = prefix + digits)-->
+    <region terr_id="00"><!--territorial region (voivodeship) code-->
+        <name>Territory_name</name><!--voivodeship name-->
+        <population>00000</population><!--to keep proportional frequency-->
+        <county terr_id="0000">
+            <prefix>___</prefix>
+            <name>name</name>
+            <population>00000</population>
+        </county>
+    </region>    
+</SK>

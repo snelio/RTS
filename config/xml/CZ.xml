@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CZ><!--country code as defined in countries.xml-->
+    <digits>5</digits><!--number of digits in a plate no. (plate = prefix + digits)-->
+    <region terr_id="11"><!--territorial region (voivodeship) code-->
+        <name>Praha</name><!--voivodeship name-->
+        <population>1384732</population><!--to keep proportional frequency-->
+        <county terr_id="1110">
+            <prefix>APA</prefix>
+            <name>Praha 01</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1115">
+            <prefix>APB</prefix>
+            <name>Praha 02</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1120">
+            <prefix>APC</prefix>
+            <name>Praha 03</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1125">
+            <prefix>APD</prefix>
+            <name>Praha 04, 11, 12</name>
+            <population>188827</population>
+        </county>
+        <county terr_id="1130">
+            <prefix>APE</prefix>
+            <name>Praha 05, 13, 16, 17</name>
+            <population>251770</population>
+        </county>
+        <county terr_id="1135">
+            <prefix>APF</prefix>
+            <name>Praha 06</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1140">
+            <prefix>APG</prefix>
+            <name>Praha 07</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1145">
+            <prefix>APH</prefix>
+            <name>Praha 08</name>
+            <population>62942</population>
+        </county>
+        <county terr_id="1150">
+            <prefix>API</prefix>
+            <name>Praha 09, 14, 18, 19, 20, 21</name>
+            <population>377656</population>
+        </county>
+        <county terr_id="1155">
+            <prefix>APJ</prefix>
+            <name>Praha 10, 15, 22</name>
+            <population>188827</population>
+        </county>
+    </region>
+    <region terr_id="21">
+        <name>Středočeský kraj</name>
+        <population>1455940</population>
+        <county terr_id="2110">
+            <prefix>BBN</prefix>
+            <name>Benešov</name>
+            <population>103359</population>
+        </county>
+        <county terr_id="2115">
+            <prefix>BBE</prefix>
+            <name>Beroun</name>
+            <population>101748</population>
+        </county>
+        <county terr_id="2120">
+            <prefix>BKD</prefix>
+            <name>Kladno</name>
+            <population>170272</population>
+        </county>
+        <county terr_id="2125">
+            <prefix>BKO</prefix>
+            <name>Kolín</name>
+            <population>107731</population>
+        </county>
+        <county terr_id="2130">
+            <prefix>BKH</prefix>
+            <name>Kutná Hora</name>
+            <population>78431</population>
+        </county>
+        <county terr_id="2135">
+            <prefix>BME</prefix>
+            <name>Mělník</name>
+            <population>114115</population>
+        </county>
+        <county terr_id="2140">
+            <prefix>BMB</prefix>
+            <name>Mladá Boleslav</name>
+            <population>136480</population>
+        </county>
+        <county terr_id="2145">
+            <prefix>BNY</prefix>
+            <name>Nymburk</name>
+            <population>106551</population>
+        </county>
+        <county terr_id="2150">
+            <prefix>BPV</prefix>
+            <name>Praha-vychod (east)</name>
+            <population>202067</population>
+        </county>
+        <county terr_id="2155">
+            <prefix>BPZ</prefix>
+            <name>Praha-zapad (west)</name>
+            <population>160626</population>
+        </county>
+        <county terr_id="2160">
+            <prefix>BPB</prefix>
+            <name>Příbram</name>
+            <population>118150</population>
+        </county>
+        <county terr_id="2165">
+            <prefix>BRA</prefix>
+            <name>Rakovník</name>
+            <population>56410</population>
+        </county>
+    </region>
+    <region terr_id="13">
+        <name>Jihočeský kraj</name>
+        <population>729080</population>
+        <county terr_id="1310">
+            <prefix>CBU</prefix>
+            <name>České Budějovice</name>
+            <population>201926</population>
+        </county>
+        <county terr_id="1320">
+            <prefix>CCK</prefix>
+            <name>Český Krumlov</name>
+            <population>62072</population>
+        </county>
+        <county terr_id="1330">
+            <prefix>CJH</prefix>
+            <name>Jindřichův Hradec</name>
+            <population>90246</population>
+        </county>
+        <county terr_id="1340">
+            <prefix>CPI</prefix>
+            <name>Písek</name>
+            <population>72851</population>
+        </county>
+        <county terr_id="1350">
+            <prefix>CPR</prefix>
+            <name>Prachatice</name>
+            <population>51474</population>
+        </county>
+        <county terr_id="1360">
+            <prefix>CST</prefix>
+            <name>Strakonice</name>
+            <population>71764</population>
+        </county>
+        <county terr_id="1370">
+            <prefix>CTA</prefix>
+            <name>Tábor</name>
+            <population>104172</population>
+        </county>
+        <county terr_id="1380">
+            <prefix>CPE</prefix>
+            <name>Pelhřimov</name>
+            <population>74575</population>
+        </county>
+    </region>    
+    <region terr_id="20">
+        <name>Plzeňský kraj</name>
+        <population>613374</population>
+        <county terr_id="2010">
+            <prefix>DDE</prefix>
+            <name>Domažlice</name>
+            <population>56120</population>
+        </county>
+        <county terr_id="2020">
+            <prefix>DKL</prefix>
+            <name>Klatovy</name>
+            <population>87238</population>
+        </county>
+        <county terr_id="2030">
+            <prefix>DPM</prefix>
+            <name>Plzeň-mesto (City)</name>
+            <population>206013</population>
+        </county>
+        <county terr_id="2040">
+            <prefix>DPS</prefix>
+            <name>Plzeň-sever (North)</name>
+            <population>83421</population>
+        </county>
+        <county terr_id="2050">
+            <prefix>DPJ</prefix>
+            <name>Plzeň-jih (South)</name>
+            <population>71593</population>
+        </county>
+        <county terr_id="2060">
+            <prefix>DRO</prefix>
+            <name>Rokycany</name>
+            <population>50804</population>
+        </county>
+        <county terr_id="2070">
+            <prefix>DTA</prefix>
+            <name>Tachov</name>
+            <population>58185</population>
+        </county>
+    </region>    
+    <region terr_id="17">
+        <name>Karlovarský kraj</name>
+        <population>295077</population>
+        <county terr_id="1710">
+            <prefix>DKV</prefix>
+            <name>Karlovy Vary</name>
+            <population>115183</population>
+        </county>
+        <county terr_id="1720">
+            <prefix>DCH</prefix>
+            <name>Cheb</name>
+            <population>94224</population>
+        </county>
+        <county terr_id="1730">
+            <prefix>DSO</prefix>
+            <name>Sokolov</name>
+            <population>85670</population>
+        </county>
+    </region>    
+    <region terr_id="23">
+        <name>Ústecký kraj</name>
+        <population>811169</population>
+        <county terr_id="2310">
+            <prefix>ECH</prefix>
+            <name>Chomutov</name>
+            <population>123947</population>
+        </county>
+        <county terr_id="2320">
+            <prefix>EDE</prefix>
+            <name>Děčín</name>
+            <population>126534</population>
+        </county>
+        <county terr_id="2330">
+            <prefix>ELT</prefix>
+            <name>Litoměřice</name>
+            <population>119486</population>
+        </county>
+        <county terr_id="2340">
+            <prefix>ELO</prefix>
+            <name>Louny</name>
+            <population>86899</population>
+        </county>
+        <county terr_id="2350">
+            <prefix>EMO</prefix>
+            <name>Most</name>
+            <population>107952</population>
+        </county>
+        <county terr_id="2360">
+            <prefix>ETE</prefix>
+            <name>Teplice</name>
+            <population>127918</population>
+        </county>
+        <county terr_id="2370">
+            <prefix>EUL</prefix>
+            <name>Ústí nad Labem</name>
+            <population>118433</population>
+        </county>
+    </region>    
+    <region terr_id="18">
+        <name>Liberecký kraj</name>
+        <population>377631</population>
+        <county terr_id="1810">
+            <prefix>ELI</prefix>
+            <name>Liberec</name>
+            <population>180809</population>
+        </county>
+        <county terr_id="1820">
+            <prefix>ECL</prefix>
+            <name>Česká Lípa</name>
+            <population>103510</population>
+        </county>
+        <county terr_id="1830">
+            <prefix>EJA</prefix>
+            <name>Jablonec nad Nisou</name>
+            <population>93312</population>
+        </county>
+    </region>    
+    <region terr_id="15">
+        <name>Královéhradecký kraj</name>
+        <population>630046</population>
+        <county terr_id="1510">
+            <prefix>FHK</prefix>
+            <name>Hradec Králové</name>
+            <population>167901</population>
+        </county>
+        <county terr_id="1520">
+            <prefix>FJI</prefix>
+            <name>Jičín</name>
+            <population>80746</population>
+        </county>
+        <county terr_id="1530">
+            <prefix>FNA</prefix>
+            <name>Náchod</name>
+            <population>110453</population>
+        </county>
+        <county terr_id="1540">
+            <prefix>FRK</prefix>
+            <name>Rychnov nad Kněžnou</name>
+            <population>80884</population>
+        </county>
+        <county terr_id="1550">
+            <prefix>FTR</prefix>
+            <name>Trutnov</name>
+            <population>116965</population>
+        </county>
+        <county terr_id="1560">
+            <prefix>FSE</prefix>
+            <name>Semily</name>
+            <population>73097</population>
+        </county>
+    </region>    
+    <region terr_id="14">
+        <name>Pardubický kraj</name>
+        <population>626418</population>
+        <county terr_id="1410">
+            <prefix>FCR</prefix>
+            <name>Chrudim</name>
+            <population>106616</population>
+        </county>
+        <county terr_id="1420">
+            <prefix>FPA</prefix>
+            <name>Pardubice</name>
+            <population>180888</population>
+        </county>
+        <county terr_id="1430">
+            <prefix>FSV</prefix>
+            <name>Svitavy</name>
+            <population>104669</population>
+        </county>
+        <county terr_id="1440">
+            <prefix>FUO</prefix>
+            <name>Ústí nad Orlicí</name>
+            <population>138387</population>
+        </county>
+        <county terr_id="1450">
+            <prefix>FHB</prefix>
+            <name>Havlíčkův Brod</name>
+            <population>95858</population>
+        </county>
+    </region>    
+    <region terr_id="16">
+        <name>Kraj Vysočina</name>
+        <population>347527</population>
+        <county terr_id="1610">
+            <prefix>GJI</prefix>
+            <name>Jihlava</name>
+            <population>117728</population>
+        </county>
+        <county terr_id="1620">
+            <prefix>GTR</prefix>
+            <name>Třebíč</name>
+            <population>110503</population>
+        </county>
+        <county terr_id="1630">
+            <prefix>GZS</prefix>
+            <name>Žďár nad Sázavou</name>
+            <population>119296</population>
+        </county>
+    </region>    
+    <region terr_id="12">
+        <name>Jihomoravský kraj</name>
+        <population>1335679</population>
+        <county terr_id="1210">
+            <prefix>GBL</prefix>
+            <name>Blansko</name>
+            <population>111025</population>
+        </county>
+        <county terr_id="1220">
+            <prefix>GBR</prefix>
+            <name>Břeclav</name>
+            <population>118828</population>
+        </county>
+        <county terr_id="1230">
+            <prefix>GBM</prefix>
+            <name>Brno-mesto (City)</name>
+            <population>400566</population>
+        </county>
+        <county terr_id="1240">
+            <prefix>GBV</prefix>
+            <name>Brno-venkov (Land)</name>
+            <population>233529</population>
+        </county>
+        <county terr_id="1250">
+            <prefix>GHO</prefix>
+            <name>Hodonín</name>
+            <population>151614</population>
+        </county>
+        <county terr_id="1260">
+            <prefix>GVY</prefix>
+            <name>Vyškov</name>
+            <population>95077</population>
+        </county>
+        <county terr_id="1270">
+            <prefix>GZN</prefix>
+            <name>Znojmo</name>
+            <population>116110</population>
+        </county>
+        <county terr_id="1280">
+            <prefix>GPR</prefix>
+            <name>Prostějov</name>
+            <population>108930</population>
+        </county>
+    </region>    
+    <region terr_id="24">
+        <name>Zlínský kraj</name>
+        <population>438443</population>
+        <county terr_id="2410">
+            <prefix>GKR</prefix>
+            <name>Kroměříž</name>
+            <population>104410</population>
+        </county>
+        <county terr_id="2420">
+            <prefix>GUH</prefix>
+            <name>Uherské Hradiště</name>
+            <population>141736</population>
+        </county>
+        <county terr_id="2430">
+            <prefix>GZL</prefix>
+            <name>Zlín</name>
+            <population>192297</population>
+        </county>
+    </region>    
+    <region terr_id="19">
+        <name>Olomoucký kraj</name>
+        <population>523934</population>
+        <county terr_id="1910">
+            <prefix>HJE</prefix>
+            <name>Jeseník</name>
+            <population>36949</population>
+        </county>
+        <county terr_id="1920">
+            <prefix>HOL</prefix>
+            <name>Olomouc</name>
+            <population>238843</population>
+        </county>
+        <county terr_id="1930">
+            <prefix>HPR</prefix>
+            <name>Přerov</name>
+            <population>128304</population>
+        </county>
+        <county terr_id="1940">
+            <prefix>HSU</prefix>
+            <name>Šumperk</name>
+            <population>119838</population>
+        </county>
+    </region>    
+    <region terr_id="22">
+        <name>Moravskoslezský kraj</name>
+        <population>1331505</population>
+        <county terr_id="2210">
+            <prefix>HBR</prefix>
+            <name>Bruntál</name>
+            <population>89168</population>
+        </county>
+        <county terr_id="2220">
+            <prefix>HFM</prefix>
+            <name>Frýdek-Místek</name>
+            <population>214599</population>
+        </county>
+        <county terr_id="2230">
+            <prefix>HKA</prefix>
+            <name>Karviná</name>
+            <population>240831</population>
+        </county>
+        <county terr_id="2240">
+            <prefix>HNJ</prefix>
+            <name>Nový Jičín</name>
+            <population>151781</population>
+        </county>
+        <county terr_id="2250">
+            <prefix>HOP</prefix>
+            <name>Opava</name>
+            <population>175239</population>
+        </county>
+        <county terr_id="2260">
+            <prefix>HOS</prefix>
+            <name>Ostrava-mesto (City)</name>
+            <population>317586</population>
+        </county>
+        <county terr_id="2270">
+            <prefix>HVS</prefix>
+            <name>Vsetín</name>
+            <population>142301</population>
+        </county>
+    </region>    
+</CZ>

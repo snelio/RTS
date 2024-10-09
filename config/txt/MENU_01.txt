@@ -1,0 +1,13 @@
+<b>================================================================================
+                  R O A D   T R A F F I C   S I M U L A T O R                   
+                    M E N U   [1]   -   S I M U L A T I O N 
+================================================================================</b>
+Here you generate road traffic data. Later you can check/erase/save it in menu 2
+Choose an option, and press ENTER. Press [Q] and then press ENTER to quit.
+--------------------------------------------------------------------------------
+[0] | Go to previous menu.
+--------------------------
+[C] | Start new or continue current simulation. Generate new data into a buffer.
+[R] | Reconfigure simulation parameters (overwite default simulation parameters)
+[P] | Print current parameters.
+================================================================================

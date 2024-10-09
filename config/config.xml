@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+<comment>This is a main RTS configuration file.</comment>
+
+<!--SQLite database files.-->
+<entry key="DBNAME">./data/RTS.db</entry>
+
+<!--Countries XML configuration file.-->
+<entry key="countries_XML">./config/xml/countries.xml</entry>
+
+<!--Menu files.-->
+<entry key="MENU_0">./config/txt/MENU_0.txt</entry>
+<entry key="MENU_00">./config/txt/MENU_00.txt</entry>
+<entry key="MENU_01">./config/txt/MENU_01.txt</entry>
+<entry key="MENU_02">./config/txt/MENU_02.txt</entry>
+<entry key="MENU_03">./config/txt/MENU_03.txt</entry>
+<entry key="MENU_09">./config/txt/MENU_09.txt</entry>
+
+<!--Debug mode. Set "true" for development and "false" for production mode-->
+<entry key="DEBUG_MODE">true</entry>
+
+<!--         SIMULATION PARAMETERS         -->
+<!--average number of vehicles per one day -->
+<entry key="SIM_PARAM_AVG_NUM">750000</entry>
+<!--max allowed average number of vehicles -->
+<entry key="SIM_PARAM_MAX_AVG">1000000</entry>
+<!--standard deviation from SIM_PARAM_AVG_NUM -->
+<entry key="SIM_PARAM_STD_DEV">500000</entry>
+<!--number of days to be simulated (generated) -->
+<entry key="SIM_PARAM_DAY_NUM">10</entry>
+<!--init day - 1st date to be saved in results -->
+<entry key="SIM_PARAM_DAY_INI">1999-06-15</entry>
+<!--progress bar min percent animation step -->
+<entry key="ANIMATION_BAR_STEP">0.5</entry>
+<!--progress bar animation sleep time -->
+<entry key="ANIMATION_SLEEP_TIME">10</entry>
+
+</properties>

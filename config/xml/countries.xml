@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country c_id="616">
+        <name_eng>Poland</name_eng>
+        <name>Rzeczpospolita Polska</name>
+        <population>37907704</population>
+        <code>PL</code>
+        <file>./config/xml/PL.xml</file>
+    </country>
+    <country c_id="203">
+        <name_eng>Czechia</name_eng>
+        <name>Česká republika</name>
+        <population>10900555</population>
+        <code>CZ</code>
+        <file>./config/xml/CZ.xml</file>
+    </country>
+    <country c_id="703">
+        <name_eng>Slovakia</name_eng>
+        <name>Slovenská republika</name>
+        <population>5422194</population>
+        <code>SK</code>
+        <file>./config/xml/SK.xml</file>
+    </country>
+</countries>

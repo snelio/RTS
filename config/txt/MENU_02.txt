@@ -1,0 +1,13 @@
+<b>================================================================================
+                  R O A D   T R A F F I C   S I M U L A T O R                   
+                M E N U   [2] - S A V E / E R A S E / P R I N T
+================================================================================</b>
+Choose an option, and press ENTER. Press [Q] and then press ENTER to quit.
+--------------------------------------------------------------------------------
+[0] | Go to previous menu.
+--------------------------
+      Choose wheather you want to [S]ave, [E]rase or just [P]rint current data.
+[S] | Save current simulation results into a database.
+[E] | Erase current data and let me start over. 
+[P] | Print current data information and stats. 
+================================================================================

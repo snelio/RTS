@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PL><!--country code as defined in countries.xml-->
+    <digits>5</digits><!--number of digits in a plate no. (plate = prefix + digits)-->
+    <region terr_id="02"><!--territorial region (voivodeship) code-->
+        <name>Dolnośląskie</name><!--voivodeship name-->
+        <population>2897737</population><!--to keep proportional frequency-->
+        <county terr_id="0261">
+            <prefix>DJ</prefix>
+            <name>Jelenia Góra</name>
+            <population>76570</population>
+        </county>
+        <county terr_id="0262">
+            <prefix>DL</prefix>
+            <name>Legnica</name>
+            <population>93988</population>
+        </county>
+        <county terr_id="0265">
+            <prefix>DB</prefix>
+            <name>Wałbrzych</name>
+            <population>103263</population>
+        </county>
+        <county terr_id="0264">
+            <prefix>DW</prefix>
+            <name>Wrocław</name>
+            <population>674312</population>
+        </county>
+        <county terr_id="0201">
+            <prefix>DBL</prefix>
+            <name>powiat bolesławiecki</name>
+            <population>88275</population>
+        </county>
+        <county terr_id="0202">
+            <prefix>DDZ</prefix>
+            <name>powiat dzierżoniowski</name>
+            <population>96884</population>
+        </county>
+        <county terr_id="0204">
+            <prefix>DGR</prefix>
+            <name>powiat górowski</name>
+            <population>33027</population>
+        </county>
+        <county terr_id="0203">
+            <prefix>DGL</prefix>
+            <name>powiat głogowski</name>
+            <population>86376</population>
+        </county>
+        <county terr_id="0205">
+            <prefix>DJA</prefix>
+            <name>powiat jaworski</name>
+            <population>48029</population>
+        </county>
+        <county terr_id="0206">
+            <prefix>DJE</prefix>
+            <name>powiat karkonoski</name><!--before 2021 known as "powiat Jeleniogórski"-->
+            <population>61469</population>
+        </county>
+        <county terr_id="0207">
+            <prefix>DKA</prefix>
+            <name>powiat kamiennogórski</name>
+            <population>41244</population>
+        </county>
+        <county terr_id="0208">
+            <prefix>DKL</prefix>
+            <name>powiat kłodzki</name>
+            <population>150515</population>
+        </county>
+        <county terr_id="0209">
+            <prefix>DLE</prefix>
+            <name>powiat legnicki</name>
+            <population>55083</population>
+        </county>
+        <county terr_id="0210">
+            <prefix>DLB</prefix>
+            <name>powiat lubański</name>
+            <population>52372</population>
+        </county>
+        <county terr_id="0211">
+            <prefix>DLU</prefix>
+            <name>powiat lubiński</name>
+            <population>103927</population>
+        </county>
+        <county terr_id="0212">
+            <prefix>DLW</prefix>
+            <name>powiat lwówecki</name>
+            <population>43473</population>
+        </county>
+        <county terr_id="0213">
+            <prefix>DMI</prefix>
+            <name>powiat milicki</name>
+            <population>36033</population>
+        </county>
+        <county terr_id="0214">
+            <prefix>DOL</prefix>
+            <name>powiat oleśnicki</name>
+            <population>106409</population>
+        </county>
+        <county terr_id="0215">
+            <prefix>DOA</prefix>
+            <name>powiat oławski</name>
+            <population>77341</population>
+        </county>
+        <county terr_id="0216">
+            <prefix>DPL</prefix>
+            <name>powiat polkowicki</name>
+            <population>61309</population>
+        </county>
+        <county terr_id="0218">
+            <prefix>DSR</prefix>
+            <name>powiat średzki</name>
+            <population>57978</population>
+        </county>
+        <county terr_id="0217">
+            <prefix>DST</prefix>
+            <name>powiat strzeliński</name>
+            <population>42239</population>
+        </county>
+        <county terr_id="0219">
+            <prefix>DSW</prefix>
+            <name>powiat świdnicki</name>
+            <population>152443</population>
+        </county>
+        <county terr_id="0220">
+            <prefix>DTR</prefix>
+            <name>powiat trzebnicki</name>
+            <population>86980</population>
+        </county>
+        <county terr_id="0221">
+            <prefix>DBA</prefix>
+            <name>powiat wałbrzyski</name>
+            <population>53534</population>
+        </county>
+        <county terr_id="0222">
+            <prefix>DWL</prefix>
+            <name>powiat wołowski</name>
+            <population>46044</population>
+        </county>
+        <county terr_id="0223">
+            <prefix>DWR</prefix>
+            <name>powiat wrocławski</name>
+            <population>178857</population>
+        </county>
+        <county terr_id="0224">
+            <prefix>DZA</prefix>
+            <name>powiat ząbkowicki</name>
+            <population>61846</population>
+        </county>
+        <county terr_id="0225">
+            <prefix>DZG</prefix>
+            <name>powiat zgorzelecki</name>
+            <population>86640</population>
+        </county>
+        <county terr_id="0226">
+            <prefix>DZL</prefix>
+            <name>powiat  złotoryjski</name>
+            <population>41277</population>
+        </county>
+    </region>
+    <region terr_id="04">
+        <name>Kujawsko-pomorskie</name>
+        <population>2017720</population>
+        <county terr_id="0461">
+            <prefix>CB</prefix>
+            <name>Bydgoszcz</name>
+            <population>334026</population>
+        </county>
+        <county terr_id="0462">
+            <prefix>CG</prefix>
+            <name>Grudziądz</name>
+            <population>90275</population>
+        </county>
+        <county terr_id="0463">
+            <prefix>CT</prefix>
+            <name>Toruń</name>
+            <population>197112</population>
+        </county>
+        <county terr_id="0464">
+            <prefix>CW</prefix>
+            <name>Włocławek</name>
+            <population>103535</population>
+        </county>
+        <county terr_id="0401">
+            <prefix>CAL</prefix>
+            <name>powiat aleksandrowski</name>
+            <population>54003</population>
+        </county>
+        <county terr_id="0402">
+            <prefix>CBR</prefix>
+            <name>powiat brodnicki</name>
+            <population>78173</population>
+        </county>
+        <county terr_id="0403">
+            <prefix>CBY</prefix>
+            <name>powiat bydgoski</name>
+            <population>123833</population>
+        </county>
+        <county terr_id="0404">
+            <prefix>CCH</prefix>
+            <name>powiat chełmiński</name>
+            <population>49900</population>
+        </county>
+        <county terr_id="0405">
+            <prefix>CGD</prefix>
+            <name>powiat golubsko-dobrzyński</name>
+            <population>43784</population>
+        </county>
+        <county terr_id="0406">
+            <prefix>CGR</prefix>
+            <name>powiat grudziądzki</name>
+            <population>39269</population>
+        </county>
+        <county terr_id="0407">
+            <prefix>CIN</prefix>
+            <name>powiat inowrocławski</name>
+            <population>153029</population>
+        </county>
+        <county terr_id="0408">
+            <prefix>CLI</prefix>
+            <name>powiat lipnowski</name>
+            <population>63414</population>
+        </county>
+        <county terr_id="0409">
+            <prefix>CMG</prefix>
+            <name>powiat mogileński</name>
+            <population>44062</population>
+        </county>
+        <county terr_id="0410">
+            <prefix>CNA</prefix>
+            <name>powiat nakielski</name>
+            <population>83412</population>
+        </county>
+        <county terr_id="0411">
+            <prefix>CRA</prefix>
+            <name>powiat radziejowski</name>
+            <population>38633</population>
+        </county>
+        <county terr_id="0412">
+            <prefix>CRY</prefix>
+            <name>powiat rypiński</name>
+            <population>41686</population>
+        </county>
+        <county terr_id="0413">
+            <prefix>CSE</prefix>
+            <name>powiat sępoleński</name>
+            <population>39465</population>
+        </county>
+        <county terr_id="0414">
+            <prefix>CSW</prefix>
+            <name>powiat świecki</name>
+            <population>95914</population>
+        </county>
+        <county terr_id="0415">
+            <prefix>CTR</prefix>
+            <name>powiat toruński</name>
+            <population>112556</population>
+        </county>
+        <county terr_id="0416">
+            <prefix>CTU</prefix>
+            <name>powiat tucholski</name>
+            <population>47207</population>
+        </county>
+        <county terr_id="0417">
+            <prefix>CWA</prefix>
+            <name>powiat wąbrzeski</name>
+            <population>33029</population>
+        </county>
+        <county terr_id="0418">
+            <prefix>CWL</prefix>
+            <name>powiat włocławski</name>
+            <population>83046</population>
+        </county>
+        <county terr_id="0419">
+            <prefix>CZN</prefix>
+            <name>powiat żniński</name>
+            <population>68357</population>
+        </county>
+    </region>
+    <region terr_id="06">
+        <name>Lubelskie</name>
+        <population>2038299</population>
+        <county terr_id="0661">
+            <prefix>LB</prefix>
+            <name>Biała Podlaska</name>
+            <population>55100</population>
+        </county>
+        <county terr_id="0662">
+            <prefix>LC</prefix>
+            <name>Chełm</name>
+            <population>58805</population>
+        </county>
+        <county terr_id="0663">
+            <prefix>LU</prefix>
+            <name>Lublin</name>
+            <population>332852</population>
+        </county>
+        <county terr_id="0664">
+            <prefix>LZ</prefix>
+            <name>Zamość</name>
+            <population>59603</population>
+        </county>
+        <county terr_id="0601">
+            <prefix>LBI</prefix>
+            <name>powiat bialski</name>
+            <population>106194</population>
+        </county>
+        <county terr_id="0602">
+            <prefix>LBL</prefix>
+            <name>powiat biłgorajski</name>
+            <population>97771</population>
+        </county>
+        <county terr_id="0603">
+            <prefix>LCH</prefix>
+            <name>powiat chełmski</name>
+            <population>74857</population>
+        </county>
+        <county terr_id="0604">
+            <prefix>LHR</prefix>
+            <name>powiat hrubieszowski</name>
+            <population>58627</population>
+        </county>
+        <county terr_id="0605">
+            <prefix>LJA</prefix>
+            <name>powiat janowski</name>
+            <population>43638</population>
+        </county>
+        <county terr_id="0606">
+            <prefix>LKS</prefix>
+            <name>powiat krasnostawski</name>
+            <population>60269</population>
+        </county>
+        <county terr_id="0607">
+            <prefix>LKR</prefix>
+            <name>powiat kraśnicki</name>
+            <population>91004</population>
+        </county>
+        <county terr_id="0608">
+            <prefix>LLB</prefix>
+            <name>powiat lubartowski</name>
+            <population>85146</population>
+        </county>
+        <county terr_id="0609">
+            <prefix>LUB</prefix>
+            <name>powiat lubelski</name>
+            <population>162129</population>
+        </county>
+        <county terr_id="0610">
+            <prefix>LLE</prefix>
+            <name>powiat łęczyński</name>
+            <population>56162</population>
+        </county>
+        <county terr_id="0611">
+            <prefix>LLU</prefix>
+            <name>powiat łukowski</name>
+            <population>102121</population>
+        </county>
+        <county terr_id="0612">
+            <prefix>LOP</prefix>
+            <name>powiat opolski</name>
+            <population>56726</population>
+        </county>
+        <county terr_id="0613">
+            <prefix>LPA</prefix>
+            <name>powiat parczewski</name>
+            <population>32934</population>
+        </county>
+        <county terr_id="0614">
+            <prefix>LPU</prefix>
+            <name>powiat puławski</name>
+            <population>108699</population>
+        </county>
+        <county terr_id="0615">
+            <prefix>LRA</prefix>
+            <name>powiat radzyński</name>
+            <population>55896</population>
+        </county>
+        <county terr_id="0616">
+            <prefix>LRY</prefix>
+            <name>powiat rycki</name>
+            <population>52486</population>
+        </county>
+        <county terr_id="0617">
+            <prefix>LSW</prefix>
+            <name>powiat świdnicki</name>
+            <population>70125</population>
+        </county>
+        <county terr_id="0618">
+            <prefix>LTM</prefix>
+            <name>powiat tomaszowski</name>
+            <population>78805</population>
+        </county>
+        <county terr_id="0619">
+            <prefix>LWL</prefix>
+            <name>powiat włodawski</name>
+            <population>36169</population>
+        </county>
+        <county terr_id="0620">
+            <prefix>LZA</prefix>
+            <name>powiat zamojski</name>
+            <population>102181</population>
+        </county>
+    </region>
+    <region terr_id="08">
+        <name>Lubuskie</name>
+        <population>985487</population>
+        <county terr_id="0861">
+            <prefix>FG</prefix>
+            <name>Gorzów Wielkopolski</name>
+            <population>118011</population>
+        </county>
+        <county terr_id="0862">
+            <prefix>FZ</prefix>
+            <name>Zielona Góra</name>
+            <population>139667</population>
+        </county>
+        <county terr_id="0801">
+            <prefix>FGW</prefix>
+            <name>powiat gorzowski</name>
+            <population>72905</population>
+        </county>
+        <county terr_id="0802">
+            <prefix>FKR</prefix>
+            <name>powiat krośnieński</name>
+            <population>53460</population>
+        </county>
+        <county terr_id="0803">
+            <prefix>FMI</prefix>
+            <name>powiat międzyrzecki</name>
+            <population>55678</population>
+        </county>
+        <county terr_id="0804">
+            <prefix>FNW</prefix>
+            <name>powiat nowosolski</name>
+            <population>83014</population>
+        </county>
+        <county terr_id="0805">
+            <prefix>FSL</prefix>
+            <name>powiat słubicki</name>
+            <population>46114</population>
+        </county>
+        <county terr_id="0806">
+            <prefix>FSD</prefix>
+            <name>powiat strzelecko-drezdenecki</name>
+            <population>47436</population>
+        </county>
+        <county terr_id="0807">
+            <prefix>FSU</prefix>
+            <name>powiat sulęciński</name>
+            <population>34002</population>
+        </county>
+        <county terr_id="0808">
+            <prefix>FSW</prefix>
+            <name>powiat świebodziński</name>
+            <population>54673</population>
+        </county>
+        <county terr_id="0809">
+            <prefix>FZI</prefix>
+            <name>powiat zielonogórski</name>
+            <population>74898</population>
+        </county>
+        <county terr_id="0810">
+            <prefix>FZG</prefix>
+            <name>powiat żagański</name>
+            <population>75194</population>
+        </county>
+        <county terr_id="0811">
+            <prefix>FZA</prefix>
+            <name>powiat żarski</name>
+            <population>92752</population>
+        </county>
+        <county terr_id="0812">
+            <prefix>FWS</prefix>
+            <name>powiat wschowski</name>
+            <population>37683</population>
+        </county>
+    </region>
+    <region terr_id="10">
+        <name>Łódzkie</name>
+        <population>2394946</population>
+        <county terr_id="1061">
+            <prefix>EL</prefix>
+            <name>Łódź</name>
+            <population>664860</population>
+        </county>
+        <county terr_id="1062">
+            <prefix>EP</prefix>
+            <name>Piotrków Trybunalski</name>
+            <population>68270</population>
+        </county>
+        <county terr_id="1063">
+            <prefix>ES</prefix>
+            <name>Skierniewice</name>
+            <population>45933</population>
+        </county>
+        <county terr_id="1001">
+            <prefix>EBE</prefix>
+            <name>powiat bełchatowski</name>
+            <population>109588</population>
+        </county>
+        <county terr_id="1002">
+            <prefix>EKU</prefix>
+            <name>powiat kutnowski</name>
+            <population>92544</population>
+        </county>
+        <county terr_id="1003">
+            <prefix>ELA</prefix>
+            <name>powiat łaski</name>
+            <population>49159</population>
+        </county>
+        <county terr_id="1004">
+            <prefix>ELE</prefix>
+            <name>powiat łęczycki</name>
+            <population>47438</population>
+        </county>
+        <county terr_id="1005">
+            <prefix>ELC</prefix>
+            <name>powiat łowicki</name>
+            <population>75109</population>
+        </county>
+        <county terr_id="1006">
+            <prefix>YY</prefix>
+            <name>ELW łódzki wschodni</name>
+            <population>73991</population>
+        </county>
+        <county terr_id="1007">
+            <prefix>EOP</prefix>
+            <name>powiat opoczyński</name>
+            <population>72960</population>
+        </county>
+        <county terr_id="1008">
+            <prefix>EPA</prefix>
+            <name>powiat pabianicki</name>
+            <population>119751</population>
+        </county>
+        <county terr_id="1009">
+            <prefix>EPJ</prefix>
+            <name>powiat pajęczański</name>
+            <population>49349</population>
+        </county>
+        <county terr_id="1010">
+            <prefix>1010</prefix>
+            <name>powiat piotrkowski</name>
+            <population>90571</population>
+        </county>
+        <county terr_id="1011">
+            <prefix>EPD</prefix>
+            <name>powiat poddębicki</name>
+            <population>39746</population>
+        </county>
+        <county terr_id="1012">
+            <prefix>ERA</prefix>
+            <name>powiat radomszczański</name>
+            <population>108615</population>
+        </county>
+        <county terr_id="1013">
+            <prefix>ERW</prefix>
+            <name>powiat rawski</name>
+            <population>46749</population>
+        </county>
+        <county terr_id="1014">
+            <prefix>ESI</prefix>
+            <name>powiat sieradzki</name>
+            <population>113195</population>
+        </county>
+        <county terr_id="1015">
+            <prefix>ESK</prefix>
+            <name>powiat skierniewicki</name>
+            <population>37879</population>
+        </county>
+        <county terr_id="1016">
+            <prefix>ETM</prefix>
+            <name>powiat tomaszowski</name>
+            <population>112303</population>
+        </county>
+        <county terr_id="1017">
+            <prefix>EWI</prefix>
+            <name>powiat wieluński</name>
+            <population>73659</population>
+        </county>
+        <county terr_id="1018">
+            <prefix>EWE</prefix>
+            <name>powiat wieruszowski</name>
+            <population>41671</population>
+        </county>
+        <county terr_id="1019">
+            <prefix>EZD</prefix>
+            <name>powiat zduńskowolski</name>
+            <population>64213</population>
+        </county>
+        <county terr_id="1020">
+            <prefix>EZG</prefix>
+            <name>powiat zgierski</name>
+            <population>167019</population>
+        </county>
+        <county terr_id="1021">
+            <prefix>EBR</prefix>
+            <name>powiat brzeziński</name>
+            <population>30374</population>
+        </county>
+    </region>
+    <region terr_id="12">
+        <name>Małopolskie</name>
+        <population>3430370</population>
+        <county terr_id="1200">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="1200">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="14">
+        <name>Mazowieckie</name>
+        <population>0000000000</population>
+        <county terr_id="1400">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="1400">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="16">
+        <name>Opolskie</name>
+        <population>0000000000</population>
+        <county terr_id="1600">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="1600">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="18">
+        <name>Podkarpackie</name>
+        <population>0000000000</population>
+        <county terr_id="1800">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="1800">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="20">
+        <name>Podlaskie</name>
+        <population>0000000000</population>
+        <county terr_id="2000">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="2000">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="22">
+        <name>Pomorskie</name>
+        <population>0000000000</population>
+        <county terr_id="2200">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="2200">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="24">
+        <name>Śląskie</name>
+        <population>0000000000</population>
+        <county terr_id="2400">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="2400">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="26">
+        <name>Świętokrzyskie</name>
+        <population>0000000000</population>
+        <county terr_id="2600">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="2600">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="28">
+        <name>Warmińsko-mazurskie</name>
+        <population>0000000000</population>
+        <county terr_id="2800">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="2800">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="30">
+        <name>Wielkopolskie</name>
+        <population>0000000000</population>
+        <county terr_id="3000">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="3000">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+    <region terr_id="32">
+        <name>Zachodniopomorskie</name>
+        <population>0000000000</population>
+        <county terr_id="3200">
+            <prefix>XX</prefix>
+            <name>powiat XX</name>
+            <population>0000</population>
+        </county>
+        <county terr_id="3200">
+            <prefix>YY</prefix>
+            <name>powiat YY</name>
+            <population>0000</population>
+        </county>
+    </region>
+</PL>
